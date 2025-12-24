@@ -66,24 +66,22 @@
 }
 .followers{
   width: 10px;
-  display: inline-block;
+ 
 }
 .numbers{
   font-weight: bold;
-  display: inline-block;
+  
 }
 
 .uptodate{
   width: 10px;
-  display: inline-block;
-}
-.numbers{
-  display: inline-block;
-}
-.wallpaper{
- margin-bottom: px;
   
 }
+.numbers{
+  display: inline-block
+}
+  
+
 .interaction{
   margin-right: 15px;
   display: inline-block;
