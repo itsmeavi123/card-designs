@@ -1,0 +1,114 @@
+*{
+  
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+
+
+.photo {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  
+  
+  object-position: top; 
+  
+  border-radius: 20px;
+  box-sizing: border-box;
+  padding-bottom: 10px;
+  padding-top: 6px;
+  padding-left: 6px;
+  box-shadow: inset 0 0 0 2px white;
+  padding-right: 6px;
+
+}
+  
+ 
+
+  
+
+.intro {
+  display: flex;         
+  align-items: center;    
+  margin-bottom: 10px;
+  padding-left: 12px;     
+}
+
+.name {
+  font-family: arial;
+  font-weight: bold;
+  margin-right: 5px;      /* Creates a small gap between name and tick */
+  padding-left: 0px;      /* Removed this so the Flexbox handles alignment */
+  margin-top: 0px;        /* Resetting margins for better flex alignment */
+}
+
+.tick {
+  width: 17px;
+  height: 17px;           /* Keeping it consistent */
+}
+.description{
+  color: grey;
+  margin-bottom: 30px;
+  padding-left: 10px;
+  line-height: 20px;
+}
+.form{
+  border-style: solid;
+  width: 250px;
+  margin-left: 100px;
+  border-color: whitesmoke;
+  border-radius: 20px;
+  margin-top: 10px;
+  background-color: white;
+
+  
+}
+.followers{
+  width: 10px;
+  display: inline-block;
+}
+.numbers{
+  font-weight: bold;
+  display: inline-block;
+}
+
+.uptodate{
+  width: 10px;
+  display: inline-block;
+}
+.numbers{
+  display: inline-block;
+}
+.wallpaper{
+ margin-bottom: px;
+  
+}
+.interaction{
+  margin-right: 15px;
+  display: inline-block;
+  margin-left: 12px;
+ 
+  
+
+}
+.reach{
+  display: inline-block;
+  margin-right: 12px;
+}
+.add-button{
+  border: none;
+  border-radius: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+body{
+  background-color: rgb(209, 209, 209);
+  
+}
+
+
